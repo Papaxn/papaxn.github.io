@@ -95,7 +95,8 @@ article {
 
 .site-header nav {
   display: flex;
-  align-items: baseline;
+  align-items: center;
+  justify-content: space-between;
   gap: 2rem;
   border-bottom: 1px solid var(--color-border);
   padding-bottom: 1rem;
